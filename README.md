@@ -1,4 +1,14 @@
-## Hi myself Jitendra Kumar Soni, a passionate software developer . I love open-source contributions. I specialize in Java, Python, Data Structures & Algorithms, and full-stack web development. I also enjoy building project. I am eager to apply my expertise in problem-solving, web/app development. 
+<table>
+  <tr>
+    
+<td width="75%">
+  <b>Hi myself Jitendra Kumar Soni, a passionate software developer . I love open-source contributions. I specialize in Java, Python, Data Structures & Algorithms, and full-stack web development. I also enjoy building project. I am eager to apply my expertise in problem-solving, web/app development.</b>
+ </td>
+        <td width="25%">
+            <img src="https://github.com/user-attachments/assets/6b76b5fe-69bd-46f0-bba0-b04cbe0335b9" width="100%">
+        </td>
+    </tr>
+</table>
 
 <!--
 **sonijitendra/sonijitendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
